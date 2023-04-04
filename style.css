@@ -24,7 +24,7 @@ h1{
     color: gray;
 }
 .top_banner{
-    background-image: url('F:/Web_Programming/web_portfolio/images/top-banner.png');
+    background-image: url('images/top-banner.png');
     background-repeat: no-repeat;
 }
 .link_button{
@@ -37,12 +37,12 @@ h1{
     margin-top: 15px;
 }
 .dream_area{
-    background-image: url('F:/Web_Programming/web_portfolio/images/dream-bg.png');
+    background-image: url('images/dream-bg.png');
     background-repeat: no-repeat;
     background-position: right;
 }
 .experience{
-    background-image: url('F:/Web_Programming/web_portfolio/images/exp-bg.png');
+    background-image: url('images/exp-bg.png');
     background-repeat: no-repeat;
     background-position: left;
 }
